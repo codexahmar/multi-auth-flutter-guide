@@ -13,7 +13,7 @@ This repository provides a comprehensive guide for integrating multiple social a
   - [Android Setup](#google-android-setup)
   - [iOS Setup](#google-ios-setup)
 - [📘 Facebook Sign-In](#-facebook-sign-in)
-  - [Android Setup](#facebook-android-setup)
+  - [Android Setup](#facebook-android-setup) 
   - [iOS Setup](#facebook-ios-setup)
 - [🍎 Apple Sign-In](#-apple-sign-in)
 - [💻 Implementation](#-implementation)
